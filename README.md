@@ -47,3 +47,6 @@ __Windows__
 * 역할 : 구글 로그인 OAuth 2.0 적용, 페이지(메인, 알람, 사용자 등) 구현, uid 구분을 통한 팔로워/팔로잉/좋아요 구현 , glide를 통한 이미지 업로딩 구현
 
 * 사용한 Skill 또는 지식 :  Android(Kotlin), Firestore, Oauth, Custom view, Glide
+
+* 이미지
+![UkasInsta](https://github.com/JaeUkas/resume/blob/main/image/UkasInsta.png)
