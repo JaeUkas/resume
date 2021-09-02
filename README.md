@@ -54,7 +54,11 @@ __Windows__
 
 * 이미지
 
+<div align=center>
+  
 ![UkasInsta](https://github.com/JaeUkas/resume/blob/main/image/UkasInsta.png)
+  
+</div>
 
 * * *
 ## [Solar][link2]
@@ -75,7 +79,11 @@ __Windows__
 
 * 이미지
 
+<div align=center>
+
 ![Solar](https://github.com/JaeUkas/resume/blob/main/image/solar.png)
+  
+</div>
 
 * * *
 ## [UnityGame][link3]
@@ -96,4 +104,8 @@ __Windows__
 
 * 이미지
 
+<div align=center>
+  
 ![Solar](https://github.com/JaeUkas/resume/blob/main/image/UnityGame.png)
+
+</div>
