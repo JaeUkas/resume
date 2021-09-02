@@ -76,3 +76,24 @@ __Windows__
 * 이미지
 
 ![Solar](https://github.com/JaeUkas/resume/blob/main/image/solar.png)
+
+* * *
+## [UnityGame][link3]
+
+[link3]: https://github.com/JaeUkas/UnityGame
+
+* 기간 : 2019.03 ~ 2019.06
+
+
+* 소개 : 개인 또는 팀원과 협력하여 적을 무찌르는 슈팅게임
+
+
+* 역할 : 게임 기획, 게임 개발, Photon을 사용한 통신
+
+
+* 사용한 Skill 또는 지식 : Unity(C#), Photon
+
+
+* 이미지
+
+![Solar](https://github.com/JaeUkas/resume/blob/main/image/UnityGame.png)
