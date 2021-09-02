@@ -12,13 +12,13 @@
 __Web__
 * HTML5
 * CSS3
-* javascript
+* Javascript
 
 __Android__
 * Java
 * Kotlin
 * MVVM Pattern, DataBinding
-* koin, retrofit, glide
+* Koin, Retrofit, Glide
 
 __Unity__
 * C#
